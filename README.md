@@ -1,7 +1,7 @@
-<!-- Hybrid GitHub Profile README for Ishmum Zaman -->
+<!-- Hybrid GitHub Profile README for Ishmum Zaman with rotating skill animation -->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Ishmum+Zaman+👋;Full-Stack+Developer+%7C+ML+Engineer+%7C+CS+%26+Business+Honors+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Hi+there!+I'm+Ishmum+Zaman+👋;Full-Stack+Developer;Machine+Learning+Engineer;Game+Developer;CS+%26+Business+Honors+Student;Building+Impactful+Software+%26+AI+Solutions" alt="Typing SVG" />
 </div>
 
 <h3 align="center">🚀 Building impactful software & AI solutions — one project at a time</h3>
@@ -56,6 +56,12 @@
 <div align="center">
   <h2>🐍 My Contribution Graph</h2>
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
+💡 *"The best way to predict the future is to invent it." – Alan Kay*
+
 </div>
 
 ---
