@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+👋;I'm+Ishmum+Zaman+💻;hFull-Stack+Developer+%7C+ML+Engineer+%7C+Studenth" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&duration=4000&pause=800&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Hi+there!+👋;I'm+Ishmum+Zaman+💻;Software-Engineer+%7C+ML+Engineer+%7C+Student" alt="Typing SVG" />
 </h1>
 
 <h3 align="center">🚀 Building impactful software & AI solutions — one project at a time</h3>
