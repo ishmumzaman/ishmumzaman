@@ -16,10 +16,10 @@
 
 <div align="center">
 
-🎓 **CS & Business Dual-Degree Honors** @ *Lehigh University* (GPA 3.6)  
+🎓 **Rising Sophomore majoring in CS & Business Dual-Degree Honors** @ *Lehigh University* (GPA 3.6)  
 🧠 Passion for **Machine Learning**, **Full-Stack Development**, & **Product Design**  
 💻 Current projects: [StudySync](https://github.com/ishmumzaman/studysync-v0.1.0-alpha) (mobile productivity app) & [Sentiment Analyzer](https://github.com/ishmumzaman/sentiment-analyzer-with-DAN-and-LTSM) (deep learning NLP)  
-🌱 Expanding skills in **Spring Boot**, **React Native**, and **AWS**  
+🌱 Currently expanding skills in **Spring Boot**, **React Native**, and **AWS**  
 📌 Goal: Create software that blends innovation, usability, and real-world impact  
 
 ✨ *"The best way to predict the future is to invent it."* — Alan Kay
