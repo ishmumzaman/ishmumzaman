@@ -17,7 +17,7 @@
 ---
 
 ## 🚀 About Me
-- 🎓 **BS in Computer Science & Business (Dual-Degree Honors)** @ Lehigh University — GPA: 3.6  
+- 🎓 **BS in Computer Science & Business (Dual-Degree Honors)** @ Lehigh University  
 - 💻 Experienced in **full-stack web & mobile development**, **ML/NLP**, and **cloud deployment**  
 - 🔬 Current **Software Engineering Intern** at SynthioLabs (YC X25) — building AI-powered healthcare platform UI & APIs  
 - 🎯 Passion for **building impactful products** that combine innovation, usability, and scalability  
