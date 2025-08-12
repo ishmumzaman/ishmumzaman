@@ -1,7 +1,12 @@
-<!-- Professional GitHub Profile README for Ishmum Zaman -->
+<!-- Hybrid GitHub Profile README for Ishmum Zaman -->
 
-<h1 align="center">Hi, I'm Ishmum Zaman 👋</h1>
-<h3 align="center">Full-Stack Developer | Machine Learning Enthusiast | CS & Business Honors Student</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&duration=3500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi+there!+I'm+Ishmum+Zaman+👋;Full-Stack+Developer+%7C+ML+Engineer+%7C+CS+%26+Business+Honors+Student" alt="Typing SVG" />
+</div>
+
+<h3 align="center">🚀 Building impactful software & AI solutions — one project at a time</h3>
+
+---
 
 <p align="center">
 <a href="mailto:ishmumz07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
@@ -42,11 +47,19 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ishmumzaman&show_icons=true&theme=default&count_private=true" height="150" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmumzaman&layout=compact&theme=default&count_private=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api?username=ishmumzaman&show_icons=true&theme=radical&count_private=true" height="150" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishmumzaman&layout=compact&theme=radical&count_private=true" height="150" />
 </p>
 
 ---
 
+<div align="center">
+  <h2>🐍 My Contribution Graph</h2>
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+</div>
+
+---
+
 💡 *"The best way to predict the future is to invent it." – Alan Kay*
+
 
