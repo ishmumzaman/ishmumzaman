@@ -16,7 +16,7 @@
 
 <div align="center">
 
-🎓 **Rising Sophomore majoring in CS & Business Dual-Degree Honors** @ *Lehigh University* (GPA 3.6)  
+🎓 **Rising Sophomore majoring in CS & Business Dual-Degree Honors** @ *Lehigh University* 
 🧠 Passion for **Machine Learning**, **Full-Stack Development**, & **Product Design**  
 💻 Current projects: [StudySync](https://github.com/ishmumzaman/studysync-v0.1.0-alpha) (mobile productivity app) & [Sentiment Analyzer](https://github.com/ishmumzaman/sentiment-analyzer-with-DAN-and-LTSM) (deep learning NLP)  
 🌱 Currently expanding skills in **Spring Boot**, **React Native**, and **AWS**  
