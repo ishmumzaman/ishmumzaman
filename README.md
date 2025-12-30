@@ -18,7 +18,7 @@
 
 🎓 **Rising Sophomore majoring in CS & Business Dual-Degree Honors** @ *Lehigh University* 
 🧠 Passion for **Machine Learning**, **Full-Stack Development**, & **Product Design**  
-💻 Current projects: [StudySync](https://github.com/ishmumzaman/studysync-v0.1.0-alpha) (mobile productivity app) & [Sentiment Analyzer](https://github.com/ishmumzaman/sentiment-analyzer-with-DAN-and-LTSM) (deep learning NLP)  
+💻 Current projects: [StudySync](https://github.com/ishmumzaman/studysync-v0.1.0-alpha) (mobile productivity app) & [LLM Decision System](https://github.com/ishmumzaman/LLM-Decision-System) (deep learning NLP)  
 🌱 Currently expanding skills in **Spring Boot**, **React Native**, and **AWS**  
 📌 Goal: Create software that blends innovation, usability, and real-world impact  
 
@@ -110,9 +110,11 @@
 
 <h2 align="center">🚀 Featured Projects</h2>
 <ul>
+  <li><a href="https://github.com/ishmumzaman/LLM-Decision-System"><b>🎮 LLM Decision System</b></a> — Domain-swappable evaluation harness to compare **prompt-only** vs **doc-grounded RAG** vs **fine-tuned** pipelines on identical inputs, with transparent metrics for grounding, latency, and cost)</li>
   <li><a href="https://github.com/ishmumzaman/studysync-v0.1.0-alpha"><b>📱 StudySync</b></a> — Mobile-first productivity app with leaderboards & peer study groups (React Native, Spring Boot, MongoDB)</li>
   <li><a href="https://github.com/ishmumzaman/sentiment-analyzer-with-DAN-and-LTSM"><b>🧠 Sentiment Analyzer</b></a> — Deep learning NLP sentiment classifier using LSTM & DAN (Keras, Word2Vec, Matplotlib)</li>
   <li><a href="https://github.com/ishmumzaman/leveling-up-to-lehigh-life"><b>🎮 Leveling Up to Lehigh Life</b></a> — 2D multiplayer educational game for incoming students (JavaScript, TypeScript, Jetlag Engine)</li>
+  
 </ul>
 
 ---
