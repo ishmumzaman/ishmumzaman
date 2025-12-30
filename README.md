@@ -18,7 +18,7 @@
 
 🎓 **Rising Sophomore majoring in CS & Business Dual-Degree Honors** @ *Lehigh University* 
 🧠 Passion for **Machine Learning**, **Full-Stack Development**, & **Product Design**  
-💻 Current projects: [StudySync](https://github.com/ishmumzaman/studysync-v0.1.0-alpha) (mobile productivity app) & [LLM Decision System](https://github.com/ishmumzaman/LLM-Decision-System) (deep learning NLP)  
+💻 Current projects: [StudySync](https://github.com/ishmumzaman/studysync-v0.1.0-alpha) (mobile productivity app) & [LLM Decision System](https://github.com/ishmumzaman/LLM-Decision-System) (Evaluator of RAG vs BaseLLM vs Fine tuned model)  
 🌱 Currently expanding skills in **Spring Boot**, **React Native**, and **AWS**  
 📌 Goal: Create software that blends innovation, usability, and real-world impact  
 
